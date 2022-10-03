@@ -3,6 +3,8 @@
     date: july 2022.
     author: Taras Vytvytskyi.
     written as an assignment for Poznan University of Tech. (PUT) courses for ukrainian students.
+    Assignment and guidelines were given by Tomasz Zok - Assistant professor in the 
+    Institute of Computing Science, Poznan University of Technology
 
     The aim of the project is to be able to read files of key-value pairs
     that are organized as 'key = value' and output values of input keys
